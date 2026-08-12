@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Результаты генерации (содержат пароли и seed-фразы!)
+accounts.txt
+seeds.txt
+test.txt
+*.accounts.txt
+*.seeds.txt
+
+# ZCode внутренние файлы
+.zcode/
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.bak
+
+# ОС
+Thumbs.db
+Desktop.ini
+.DS_Store
